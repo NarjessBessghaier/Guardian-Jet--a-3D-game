@@ -9,5 +9,5 @@
 
 Game link for Mac OS: https://drive.google.com/open?id=1j0UBoy8nuQu2vwgfxmDijgAeO4alBsZr
 
-Game link for Windows OS:
+Game link for Windows OS: https://drive.google.com/open?id=1kW1njS02IqutOLMzaFn2sAo36vZjgJOx
 
